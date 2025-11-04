@@ -1,14 +1,11 @@
 {
-  "name": "@csh-js/react-responsive",
+  "name": "react-breakpoint-ui",
   "version": "0.0.2",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "dependencies": {
     "@artsy/fresnel": "^8.1.0",
@@ -18,5 +15,6 @@
     "@types/react": "^19.2.0",
     "tsup": "^8.5.0",
     "typescript": "^5.9.2"
-  }
+  },
+  "author": "chosanghyeon"
 }

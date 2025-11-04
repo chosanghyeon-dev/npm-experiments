@@ -102,13 +102,3 @@ export const createFresnelMedia = <T extends string>(
     rootMediaStyle,
   };
 };
-
-// const {MediaContextProvider, Responsive, rootMediaStyle} = createFresnelMedia({
-//   xs: 0,
-//   s: 600,
-//   m: 1024,
-//   l: 1366,
-//   xl: 1536,
-//   xxl: 1920,
-//   xxxl: 2560,
-// });
