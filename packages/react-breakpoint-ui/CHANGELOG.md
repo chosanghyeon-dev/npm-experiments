@@ -1,4 +1,4 @@
-# @csh-js/react-responsive
+# react-breakpoint-ui
 
 ## 0.0.2
 
