@@ -1,5 +1,11 @@
 # react-breakpoint-ui
 
+## 1.0.1
+
+### Patch Changes
+
+- cea5d61: move react from dependencies to devDependencies
+
 ## 1.0.0
 
 ### Major Changes
