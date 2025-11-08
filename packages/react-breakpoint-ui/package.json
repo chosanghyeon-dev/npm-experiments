@@ -8,11 +8,11 @@
     "build": "tsup"
   },
   "dependencies": {
-    "@artsy/fresnel": "^8.1.0",
-    "react": "^19.2.0"
+    "@artsy/fresnel": "^8.1.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.0",
+    "react": "^19.2.0",
     "tsup": "^8.5.0",
     "typescript": "^5.9.2"
   },

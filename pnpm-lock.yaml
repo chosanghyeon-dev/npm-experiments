@@ -44,11 +44,11 @@ importers:
       '@artsy/fresnel':
         specifier: ^8.1.0
         version: 8.1.0(react@19.2.0)
-      react:
-        specifier: ^19.2.0
-        version: 19.2.0
     devDependencies:
       '@types/react':
+        specifier: ^19.2.0
+        version: 19.2.0
+      react:
         specifier: ^19.2.0
         version: 19.2.0
       tsup:
