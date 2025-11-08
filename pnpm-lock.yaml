@@ -39,16 +39,7 @@ importers:
         specifier: ^5.9.2
         version: 5.9.2
 
-  packages/example:
-    devDependencies:
-      tsup:
-        specifier: ^8.5.0
-        version: 8.5.0(jiti@2.6.0)(postcss@8.5.6)(typescript@5.9.2)
-      typescript:
-        specifier: ^5.9.2
-        version: 5.9.2
-
-  packages/responsive:
+  packages/react-breakpoint-ui:
     dependencies:
       '@artsy/fresnel':
         specifier: ^8.1.0
@@ -1535,6 +1526,7 @@ packages:
   source-map@0.8.0-beta.0:
     resolution: {integrity: sha512-2ymg6oRBpebeZi9UUNsgQ89bhx01TcTkmNTGnNO88imTmbSgy4nfujrgVEFKWpMTEGA11EDkTt7mqObTPdigIA==}
     engines: {node: '>= 8'}
+    deprecated: The work that was done in this beta branch won't be included in future versions
 
   spawndamnit@3.0.1:
     resolution: {integrity: sha512-MmnduQUuHCoFckZoWnXsTg7JaiLBJrKFj9UI2MbRPGaJeVpsLcVBu6P/IGZovziM/YBsellCmsprgNA+w0CzVg==}

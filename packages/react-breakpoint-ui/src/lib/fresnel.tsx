@@ -1,5 +1,6 @@
-import { createMedia, MediaProps } from "@artsy/fresnel/dist/Media";
+import { MediaProps } from "@artsy/fresnel/dist/Media";
 import { isEmptyObject } from "../utils/object";
+import { createMedia } from "@artsy/fresnel";
 
 export const createFresnelMedia = <T extends string>(
   breakpoints: Record<T, number>
