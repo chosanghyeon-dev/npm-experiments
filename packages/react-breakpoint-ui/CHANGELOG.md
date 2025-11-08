@@ -1,5 +1,11 @@
 # react-breakpoint-ui
 
+## 1.0.0
+
+### Major Changes
+
+- f59c802: react-breakpoint-ui release
+
 ## 0.0.2
 
 ### Patch Changes
